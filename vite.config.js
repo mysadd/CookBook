@@ -36,7 +36,7 @@ function threatJsFilesAsJsx() {
  * The details are here: https://dev.vk.com/mini-apps/development/on-demand-resources.
  */
 export default defineConfig({
-  base: './',
+  base: '/',
 
   plugins: [
     react(),
