@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic [VK Bridge](https://github.com/VKCOM/vk-bridge) + [VKUI](https://github.com/VKCOM/VKUI) + [VK Miniapps Router](https://github.com/VKCOM/vk-mini-apps-router) app
 
 Этот шаблон предоставляет базовый код и настройки для создания мини-приложения внутри ВКонтакте.  
@@ -53,3 +54,6 @@ yarn run deploy
 [Dev портал разработчиков](https://dev.vk.com/ru)  
 [Пример мини приложения](https://dev.vk.com/ru/mini-apps/examples/shop)  
 [Если столкнулись с проблемами](https://github.com/VKCOM/create-vk-mini-app/issues)
+=======
+# CookBook
+>>>>>>> 8af88ecb0c537f45194d97c6028537f934d8755f
